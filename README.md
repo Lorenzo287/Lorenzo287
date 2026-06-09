@@ -1,1 +1,1 @@
-<img src="./profile/top-langs.svg?v=2" height="290px" alt="Top Languages">
+<img src="./profile/top-langs.svg?v=2" height="330px" alt="Top Languages">
