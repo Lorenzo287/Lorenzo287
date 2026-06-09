@@ -1,7 +1,7 @@
-<img src="./profile/top-langs.svg?v=2" height="270px" alt="Top Languages">
+<img src="./profile/top-langs.svg?v=2" width="350px" alt="Top Languages">
 
 <!--
-<img src="./profile/top-langs.svg?v=2" width="450px" alt="Top Languages">
+<img src="./profile/top-langs.svg?v=2" height="270px" alt="Top Languages">
 **Lorenzo287/Lorenzo287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
