@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzo287&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+![My Top Languages](./profile/top-langs.svg)
 
 <!--
 **Lorenzo287/Lorenzo287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
