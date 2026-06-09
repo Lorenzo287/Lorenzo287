@@ -23,13 +23,13 @@ jobs:
             {
               "username": "${{ github.repository_owner }}",
               "layout": "compact",
-              "card_width": 700,
+              "card_width": 850,
               "hide_title": true,
               "hide_border": true,
               "bg_color": "00000000",
               "title_color": "58a6ff",
               "text_color": "c9d1d9",
-              "langs_count": 8,
+              "langs_count": 6,
               "hide": "Tree-sitter Query,tree-sitter query,Tree-sitter"
             }
           path: profile/top-langs.svg
