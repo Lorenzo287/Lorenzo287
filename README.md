@@ -1,4 +1,4 @@
-<img src="./profile/top-langs.svg" width="400px" alt="Top Languages">
+![My Top Languages](./profile/top-langs.svg)
 
 <!--
 **Lorenzo287/Lorenzo287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
