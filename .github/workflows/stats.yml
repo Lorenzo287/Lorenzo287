@@ -23,7 +23,7 @@ jobs:
             {
               "username": "${{ github.repository_owner }}",
               "layout": "compact",
-              "card_width": 830,
+              "card_width": 810,
               "hide_title": true,
               "hide_border": true,
               "bg_color": "00000000",
