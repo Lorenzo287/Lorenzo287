@@ -19,7 +19,17 @@ jobs:
         with:
           card: top-langs
           # Change layout=compact to default if you prefer a solid block chart
-          options: 'username=${{ github.repository_owner }}&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&hide=Tree-sitter%20Query'          
+          options: |
+            {
+              "username": "${{ github.repository_owner }}",
+              "layout": "compact",
+              "hide_title": true,
+              "hide_border": true,
+              "bg_color": "00000000",
+              "title_color": "58a6ff",
+              "text_color": "c9d1d9",
+              "hide": "Tree-sitter Query,tree-sitter query,Tree-sitter"
+            }
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
