@@ -1,4 +1,4 @@
-<img src="./profile/top-langs.svg?v=2" height="180px" alt="Top Languages">
+<img src="./profile/top-langs.svg?v=2" height="250px" alt="Top Languages">
 
 <!--
 <img src="./profile/top-langs.svg?v=2" width="450px" alt="Top Languages">
